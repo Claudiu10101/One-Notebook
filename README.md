@@ -29,3 +29,12 @@ Daca vrem sa stergem o materie tinem apasat doua secunde si o sa fie stearsa.
  Daca apasam pe o materie o sa intram in alta activitate
  
  ![image](https://user-images.githubusercontent.com/79408463/210384847-09312c58-76a2-4436-83af-0d994e015bcf.png)
+Apasand pe "+" se intampla acelasi lucru ca si pe ecranul cu materii.
+
+#Lectia
+
+Apasand pe una din lectii pe ecran apare o alta activitate care contine o poza si 3 butoane "next" si "previous" pentru navigarea prin poze si un buton cu o iconita de camera care apasand pe el ne muta pe aplicatia de camera pentru a face o poza.
+
+#Cum s-a realizat
+
+Fiecare lectie este un document de tip .txt care contine adresele pozelor din galerie 
