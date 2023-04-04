@@ -35,6 +35,9 @@ Apasand pe "+" se intampla acelasi lucru ca si pe ecranul cu materii.
 
 Apasand pe una din lectii pe ecran apare o alta activitate care contine o poza si 3 butoane "next" si "previous" pentru navigarea prin poze si un buton cu o iconita de camera care apasand pe el ne muta pe aplicatia de camera pentru a face o poza.
 
+![image](https://user-images.githubusercontent.com/79408463/229790787-67bf705c-12de-40fd-8278-a13ae16cc2e7.png)
+
 #Cum s-a realizat
 
-Fiecare lectie este un document de tip .txt care contine adresele pozelor din galerie 
+Fiecare lectie este un document de tip .txt care contine adresele pozelor din galerie astfel cand deschidem activitatea se citeste fisierul .txt, se afla adresele pozelor necesare, si se adauga intr-un vector, urmand ca apoi sa folosim butoanele "next" si "previous" pentru a itera prin vector
+
